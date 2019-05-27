@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ocr</string>
+    <string name="app_name">Optical character recognition</string>
     <string name="txt_message">No Text Available</string>
     <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
 
